@@ -11,7 +11,7 @@ The project will be implemented using the following technologies and tools:
 ## Getting Started
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/diegodavallejos/credit_fraud.git`
+1. Clone the repository: `git clone https://github.com/diegodvallejos/credit_fraud.git`
 2. Install the required dependencies: `npm install` or `pip install -r requirements.txt`
 
 ## Contributing
